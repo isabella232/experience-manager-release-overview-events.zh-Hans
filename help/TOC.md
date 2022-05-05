@@ -1,17 +1,17 @@
 ---
-user-guide-title: Adobe Experience Manager as a Cloud Service版本概述
+user-guide-title: Adobe Experience Manager as a Cloud Service 发行版概述
 user-guide-breadcrumb: AEMCS Release Events
-user-guide-description: 快速概述Adobe Experience Manager as a Cloud Service的最新功能
-breadcrumb-title: AEM CS版本更新
+user-guide-description: 快速大致了解 Adobe Experience Manager as a Cloud Service 的最新功能
+breadcrumb-title: AEM CS 发行版更新
 source-git-commit: 74544e9521f5bdd97a8d8b4c7f3a9d4a0c1025ad
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 25%
+ht-degree: 100%
 
 ---
 
 
-# Adobe Experience Manager as a Cloud Service版本更新 {#aemcsupdates}
+# Adobe Experience Manager as a Cloud Service 发行版更新 {#aemcsupdates}
 
 + [概述](overview.md)
 + 2022 {#2022}
