@@ -1,18 +1,18 @@
 ---
-title: Adobe Experience Manager as a Cloud Service版本概述
-description: 快速概述Adobe Experience Manager as a Cloud Service的最新功能
+title: Adobe Experience Manager as a Cloud Service 发行版概述
+description: 快速大致了解 Adobe Experience Manager as a Cloud Service 的最新功能
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: ece8359e8100eca2508bc9e58e17416756d23349
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# Adobe Experience Manager as a Cloud Service版本更新
+# Adobe Experience Manager as a Cloud Service 发行版更新
 
-快速概述Adobe Experience Manager as a Cloud Service的最新功能。 这些是由AEM产品团队交付的简短视频，大约为10分钟，其中介绍了最新版本的亮点。
+快速大致了解 Adobe Experience Manager as a Cloud Service 的最新功能。这些短视频时长约为 10 分钟，由 AEM 产品团队发布，其中介绍最新发行版的各项重大功能。
 
 ## 最新更新
 
@@ -20,14 +20,14 @@ ht-degree: 5%
 <tr>
   <td>
     <a href="./2022/2022-3-0.md">
-      <img alt="2022.3.0版" src="./2022/assets/2022-3-0.png" />
+      <img alt="2022.3.0 发行版" src="./2022/assets/2022-3-0.png" />
     </a>
     <div>
       <a href="./2022/2022-3-0.md">
-        <strong>版本 | 2022.3.0</strong>
+        <strong>发行版 | 2022.3.0</strong>
         <br/>
       </a>
-        <em>发布于2022年3月31日 </em>
+        <em>发行时间：2022 年 3 月 31 日</em>
     </div>
     <p>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">发行说明</a>
@@ -36,20 +36,20 @@ ht-degree: 5%
 </tr>  
 </table>
 
-## 过去的更新
+## 以往的更新
 
 <table style="max-width: 50%;">
 <tr>
   <td>
     <a href="./2022/2022-1-0.md">
-      <img alt="2022-1-0版" src="./2022/assets/2022-1-0.png" />
+      <img alt="2022-1-0 发行版" src="./2022/assets/2022-1-0.png" />
     </a>
     <div>
       <a href="./2022/2022-1-0.md">
-        <strong>版本 | 2022.1.0</strong>
+        <strong>发行版 | 2022.1.0</strong>
         <br/>
       </a>
-        <em>发布于2022年2月3日 </em>
+        <em>发行时间：2022 年 2 月 3 日</em>
     </div>
     <p>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2022/release-notes-2022-1-0.html">发行说明</a>
@@ -57,14 +57,14 @@ ht-degree: 5%
   </td>
   <td>
     <a href="./2021/2021-11-0.md">
-      <img alt="2021.11.0 AEMCS版本" src="./2021/assets/2021-11-0.png" />
+      <img alt="2021.11.0 AEMCS 发行版" src="./2021/assets/2021-11-0.png" />
     </a>
     <div>
     <a href="./2021/2021-11-0.md">
-        <strong>版本 | 2021.11.0</strong>
+        <strong>发行版 | 2021.11.0</strong>
         <br/>
       </a>
-    <em>发布于2021年12月16日</em>
+    <em>发行时间：2021 年 12 月 16 日</em>
     </div>
     <p>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2021/release-notes-2021-11-0.html">发行说明</a>
