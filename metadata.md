@@ -8,8 +8,8 @@ mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/experience-manager-release-overview-events.zh-Hans
 index: true
 source-git-commit: dbe17018edb165127f0386631217ca14e269a97d
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '63'
 ht-degree: 100%
 
 ---
