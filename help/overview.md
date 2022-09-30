@@ -4,8 +4,8 @@ description: 快速大致了解 Adobe Experience Manager as a Cloud Service 的�
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: 8dde75778f146a1e41330404143427137bd15c6e
-workflow-type: ht
-source-wordcount: '0'
+workflow-type: tm+mt
+source-wordcount: '192'
 ht-degree: 100%
 
 ---
