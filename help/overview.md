@@ -4,9 +4,9 @@ description: 快速大致了解 Adobe Experience Manager as a Cloud Service 的�
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: 105313398adca0568fae0b25a5df876729abdebd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '207'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 98%
       </a>
       <div>
         <a href="./2022/2022-10-0.md">
-          <strong>版本 | 2022.10.0</strong>
+          <strong>发行版 | 2022.10.0</strong>
           <br/>
         </a>
-          <em>发行日期2022年10月13日 </em>
+          <em>发行日期：2022 年 10 月 13 日</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">发行说明</a>
@@ -47,10 +47,10 @@ ht-degree: 98%
       </a>
       <div>
         <a href="./2022/2022-8-0.md">
-          <strong>发行版本 | 2022.8.0</strong>
+          <strong>发行版 | 2022.8.0</strong>
         <br/>
        </a>
-        <em>发行日期  2022 年 9 月 1 日 </em>
+        <em>发行日期：2022 年 9 月 1 日</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">发行说明</a>
@@ -62,10 +62,10 @@ ht-degree: 98%
       </a>
       <div>
         <a href="./2022/2022-7-0.md">
-          <strong>发行版本 | 2022.7.0</strong>
+          <strong>发行版 | 2022.7.0</strong>
         <br/>
        </a>
-        <em>发行日期 2022 年 8 月 8 日 </em>
+        <em>发行日期：2022 年 8 月 8 日</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">发行说明</a>
@@ -77,10 +77,10 @@ ht-degree: 98%
       </a>
       <div>
         <a href="./2022/2022-6-0.md">
-          <strong>发行版本 | 2022.6.0</strong>
+          <strong>发行版 | 2022.6.0</strong>
         <br/>
        </a>
-        <em>发行日期  2022 年 6 月 30 日 </em>
+        <em>发行日期：2022 年 6 月 30 日</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">发行说明</a>
@@ -94,10 +94,10 @@ ht-degree: 98%
       </a>
       <div>
         <a href="./2022/2022-5-0.md">
-          <strong>发行版本 | 2022.5.0</strong>
+          <strong>发行版 | 2022.5.0</strong>
         <br/>
        </a>
-        <em>发行日期  2022 年 6 月 9 日 </em>
+        <em>发行日期：2022 年 6 月 9 日</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">发行说明</a>
@@ -112,7 +112,7 @@ ht-degree: 98%
         <strong>发行版 | 2022.4.0</strong>
         <br/>
       </a>
-        <em>发行时间：2022 年 5 月 5 日</em>
+        <em>发行日期：2022 年 5 月 5 日</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">发行说明</a>
@@ -127,7 +127,7 @@ ht-degree: 98%
         <strong>发行版 | 2022.3.0</strong>
         <br/>
       </a>
-        <em>发行时间：2022 年 3 月 31 日</em>
+        <em>发行日期：2022 年 3 月 31 日</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">发行说明</a>
@@ -144,7 +144,7 @@ ht-degree: 98%
         <strong>发行版 | 2022.1.0</strong>
         <br/>
       </a>
-        <em>发行时间：2022 年 2 月 3 日</em>
+        <em>发行日期：2022 年 2 月 3 日</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2022/release-notes-2022-1-0.html">发行说明</a>
@@ -159,7 +159,7 @@ ht-degree: 98%
           <strong>发行版 | 2021.11.0</strong>
         <br/>
       </a>
-    <em>发行时间：2021 年 12 月 16 日</em>
+    <em>发行日期：2021 年 12 月 16 日</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2021/release-notes-2021-11-0.html">发行说明</a>
